@@ -1,0 +1,19 @@
+.welcome-page  {
+    display: block;
+}
+.userAvatar {
+    background: gray;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: inline-block;
+    vertical-align: middle;
+    border-radius: 50%;
+    padding: 12px;
+    color: #fff;
+    font-weight: bold;
+    border: 2px solid #ccc;
+}
+.sidebar {
+    display: none
+}
